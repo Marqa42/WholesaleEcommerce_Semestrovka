@@ -209,34 +209,6 @@ dotnet ef database update
 5. **Создайте репозиторий в Infrastructure Layer**
 6. **Добавьте контроллер в API Layer**
 
-## Тестирование
-
-### Backend тесты
-```bash
-cd backend
-dotnet test
-```
-
-### Frontend тесты
-```bash
-cd frontend
-npm test
-```
-
-## Развертывание
-
-### Backend
-```bash
-cd backend/src/WholesaleEcommerce.API
-dotnet publish -c Release
-```
-
-### Frontend
-```bash
-cd frontend
-npm run build
-```
-
 ## Безопасность
 
 - **JWT токены** для аутентификации
@@ -244,11 +216,3 @@ npm run build
 - **CORS** настройки
 - **Валидация** входных данных
 - **Авторизация** на основе ролей
-
-## Лицензия
-
-MIT License
-
-## Поддержка
-
-Для вопросов и предложений создавайте Issues в репозитории. 
