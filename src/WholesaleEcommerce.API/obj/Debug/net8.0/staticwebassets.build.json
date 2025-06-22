@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "m8Vs4yCxeRvkawp37bhI9jcCryyEvimmFtZe6cb2bxo=",
+  "Source": "WholesaleEcommerce.API",
+  "BasePath": "_content/WholesaleEcommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
