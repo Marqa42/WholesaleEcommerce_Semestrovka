@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale1-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale1-demo.myshopify.com/collections/frontpage.atom"/>
+  <title>Wholesale Large Catalog Layout</title>
+  <updated>2019-08-08T05:25:26-04:00</updated>
+  <author>
+    <name>Wholesale Large Catalog Layout</name>
+  </author>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+    <published>2019-08-08T05:25:26-04:00</published>
+    <updated>2019-08-08T05:25:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/gray-jacket-with-image-variant"/>
+    <title>AF Premium Silver Car Body Cover?For Nissan Sunny</title>
+    <s:type>Women’s Clothing</s:type>
+    <s:vendor>Vendor 2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/71C_b60.jpg?v=1565256328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 2<br>
+        <strong>Type: </strong>Women’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Above $200</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>All size</s:tag>
+    <s:tag>Bestselling Products</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>coat</s:tag>
+    <s:tag>collection:fashion1</s:tag>
+    <s:tag>Everything</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Interior</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>M-L</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S-M</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Under $100</s:tag>
+    <s:tag>Video Camera</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>what new</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>XS-S</s:tag>
+    <s:tag>XXS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>S / black / cotton</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>S / yellow / nilon</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>S / red / polime</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>M / red / cotton</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>L / black / cotton</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>L / red / cotton</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755195443</id>
+      <title>L / blue / cotton</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

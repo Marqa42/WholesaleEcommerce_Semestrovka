@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wholesale1-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wholesale1-demo.myshopify.com/collections/lighting.atom"/>
+  <title>Wholesale Large Catalog Layout</title>
+  <updated>2019-08-08T05:27:06-04:00</updated>
+  <author>
+    <name>Wholesale Large Catalog Layout</name>
+  </author>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+    <published>2019-08-08T05:27:06-04:00</published>
+    <updated>2019-08-08T05:27:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/winter-coat-with-hat"/>
+    <title>Fulcrum 20 Ton Hydraulic Bottle?Jack FC008</title>
+    <s:type>Men’s Clothing</s:type>
+    <s:vendor>Vendor 3</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/VWARN010100_037.jpg?v=1565256430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 3<br>
+        <strong>Type: </strong>Men’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $200</s:tag>
+    <s:tag>Best sellers</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>hotting</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>M-L</s:tag>
+    <s:tag>Motorcycle Parts</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Under $100</s:tag>
+    <s:tag>Vehicle Tools</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS-S</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>M-L / black</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>M-L / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>M-L / blue</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>XL / black</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>XL / yellow</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78968</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>XL / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>XS-S / yellow</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>XS-S / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760602163</id>
+      <title>XS-S / blue</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109760077875</id>
+    <published>2019-08-08T05:27:01-04:00</published>
+    <updated>2019-08-08T05:27:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/wide-t-shirt"/>
+    <title>Fulcrum 20 Ton Hydraulic Bottle?Jack FC008</title>
+    <s:type>Men’s Clothing</s:type>
+    <s:vendor>Vendor 2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/180c1.jpg?v=1565256423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 2<br>
+        <strong>Type: </strong>Men’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Above $200</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>Gray</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Interior</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Top Rated</s:tag>
+    <s:tag>Under $100</s:tag>
+    <s:tag>Vehicle Tools</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109760077875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109759455283</id>
+    <published>2019-08-08T05:26:51-04:00</published>
+    <updated>2019-08-08T05:26:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/simple-white-shoes"/>
+    <title>Fulcrum 20 Ton Hydraulic Bottle?Jack FC008</title>
+    <s:type>Men’s Clothing</s:type>
+    <s:vendor>Vendor 3</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/13o.jpg?v=1565256413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 3<br>
+        <strong>Type: </strong>Men’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>All size</s:tag>
+    <s:tag>Audio &amp; Electronics</s:tag>
+    <s:tag>Best sellers</s:tag>
+    <s:tag>bestselling</s:tag>
+    <s:tag>coat</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>Interior</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>M-L</s:tag>
+    <s:tag>Office Supplies</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Under $100</s:tag>
+    <s:tag>Vehicle Tools</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>XS-S</s:tag>
+    <s:tag>XXS</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109759455283</id>
+      <title>Default Title</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109759094835</id>
+    <published>2019-08-08T05:26:38-04:00</published>
+    <updated>2019-08-08T05:26:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/product-sidebar-layout"/>
+    <title>Product Sidebar Layout</title>
+    <s:type>Women’s Clothing</s:type>
+    <s:vendor>Vendor 3</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/exterior-1g__29783.1538477914.jpg?v=1565256402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 3<br>
+        <strong>Type: </strong>Women’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>All Automotive</s:tag>
+    <s:tag>All size</s:tag>
+    <s:tag>Audio &amp; Electronics</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>coat</s:tag>
+    <s:tag>collection:fashion1</s:tag>
+    <s:tag>Electronics</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>Motorcycle Parts</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>S-M</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Top Rated</s:tag>
+    <s:tag>what new</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>XS-S</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109759094835</id>
+      <title>XS-S / Black</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109759094835</id>
+      <title>XS-S / Brown</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109759094835</id>
+      <title>XS / Brown</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109759094835</id>
+      <title>XL / Blue gray</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78972</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109759094835</id>
+      <title>S-M / Brown</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109757128755</id>
+    <published>2019-08-08T05:26:00-04:00</published>
+    <updated>2019-08-08T05:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/men-s-bermuda-shorts-2"/>
+    <title>Fulcrum 20 Ton Hydraulic Bottle?Jack FC008</title>
+    <s:type>Women’s Clothing</s:type>
+    <s:vendor>Vendor 3</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/7.jpg?v=1565256361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 3<br>
+        <strong>Type: </strong>Women’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>All size</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>collection:fashion1</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Latest products</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Office Supplies</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S-M</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Under $100</s:tag>
+    <s:tag>Vehicle Tools</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XS-S</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109757128755</id>
+      <title>XS-S / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109757128755</id>
+      <title>XS-S / blue</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78966</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109757128755</id>
+      <title>M / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109757128755</id>
+      <title>M / blue</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109757128755</id>
+      <title>S-M / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wholesale1-demo.myshopify.com/products/2109755752499</id>
+    <published>2019-08-08T05:25:36-04:00</published>
+    <updated>2019-08-08T05:25:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wholesale1-demo.myshopify.com/products/kid-bag-1"/>
+    <title>Fulcrum 20 Ton Hydraulic Bottle?Jack FC008</title>
+    <s:type>Men’s Clothing</s:type>
+    <s:vendor>Vendor 2</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/7146/6291/products/5-1.jpg?v=1565256337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vendor 2<br>
+        <strong>Type: </strong>Men’s Clothing<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description-update">
+<h3>Description</h3>
+<ul>
+<li>Model is 5</li>
+<li>Wearing size 2</li>
+<li>100% Cotton</li>
+<li>Machine wash cold with like colors, tumble dry low</li>
+<li>Made in Jiangmen, ChinaSee the factory</li>
+<li>Questions about fit?Email fit@everlane.com</li>
+</ul>
+<p>A pant that just works. Made from a 100% non-stretch cotton, the Carpenter Pant has a flattering high-rise, relaxed straight leg, and slightly cropped fit—plus cargo pockets and hammer loop for an original look.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Audio &amp; Electronics</s:tag>
+    <s:tag>Automotive Mainten</s:tag>
+    <s:tag>Best sellers</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>collection:fashion1</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>jean</s:tag>
+    <s:tag>Lighting</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>M-L</s:tag>
+    <s:tag>Office Supplies</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>short</s:tag>
+    <s:tag>Vehicle Tools</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>what new</s:tag>
+    <s:tag>XXS</s:tag>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755752499</id>
+      <title>XXS / black</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755752499</id>
+      <title>XXS / yellow</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78964</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755752499</id>
+      <title>M / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78969</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755752499</id>
+      <title>M-L / red</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wholesale1-demo.myshopify.com/products/2109755752499</id>
+      <title>M-L / blue</title>
+      <s:price currency="USD">88.00</s:price>
+      <s:sku>CA78974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
