@@ -1,10 +1,10 @@
-# Wholesale E-commerce Platform
+# Wholesale Ecommerce 
 
-Современная платформа для оптовой электронной коммерции, построенная с использованием Clean Architecture и .NET 8.
+Современная платформа для оптовой электронной коммерции.
 
 ## Архитектура
 
-Проект использует Clean Architecture с четким разделением на слои:
+Проект использует Clean Architecture:
 
 ### Backend (.NET 8)
 
@@ -17,9 +17,6 @@
 
 - **React 18** с TypeScript
 - **Vite** для сборки
-- **Tailwind CSS** для стилизации
-- **React Router** для маршрутизации
-- **Zustand** для управления состоянием
 
 ## Технологии
 
@@ -29,17 +26,12 @@
 - **Entity Framework Core**
 - **SQL Server**
 - **JWT Authentication**
-- **Swagger/OpenAPI**
 - **BCrypt** для хеширования паролей
 
 ### Frontend
 - **React 18**
 - **TypeScript**
 - **Vite**
-- **Tailwind CSS**
-- **React Router DOM**
-- **Zustand**
-- **Axios**
 
 ## Структура проекта
 
@@ -90,7 +82,6 @@
    ```
 
 4. **API будет доступен по адресу:**
-   - Swagger UI: `https://localhost:5000`
    - API: `https://localhost:5000/api`
 
 ### Frontend
@@ -146,9 +137,7 @@
 
 API использует JWT токены для аутентификации:
 
-1. **Получите токен через `/api/auth/login`**
-2. **Добавьте заголовок:** `Authorization: Bearer <token>`
-3. **Используйте refresh token для обновления:** `/api/auth/refresh`
+**Получите токен через `/api/auth/login`**
 
 ## Роли пользователей
 
@@ -199,15 +188,6 @@ dotnet ef database update
 - **Controllers** - Web API контроллеры
 - **Middleware** - Промежуточное ПО
 - **Configuration** - Настройки приложения
-
-### Добавление новых функций
-
-1. **Создайте сущность в Domain Layer**
-2. **Добавьте интерфейс репозитория**
-3. **Создайте DTOs в Application Layer**
-4. **Реализуйте сервис**
-5. **Создайте репозиторий в Infrastructure Layer**
-6. **Добавьте контроллер в API Layer**
 
 ## Безопасность
 
