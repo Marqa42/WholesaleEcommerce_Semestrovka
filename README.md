@@ -90,8 +90,8 @@
    ```
 
 4. **API будет доступен по адресу:**
-   - Swagger UI: `https://localhost:7001`
-   - API: `https://localhost:7001/api`
+   - Swagger UI: `https://localhost:5000`
+   - API: `https://localhost:5000/api`
 
 ### Frontend
 
@@ -107,7 +107,7 @@
    ```
 
 3. **Frontend будет доступен по адресу:**
-   - `http://localhost:5173`
+   - `http://localhost:3001`
 
 ## API Endpoints
 
